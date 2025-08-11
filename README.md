@@ -3,7 +3,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)](https://pytorch.org)
-[![Transformers](https://img.shields.io/badge/🤗%20Transformers-4.0+-yellow.svg)](https://huggingface.co/transformers).
+[![Transformers](https://img.shields.io/badge/🤗%20Transformers-4.0+-yellow.svg)](https://huggingface.co/transformers)
 
 ## 🎯 Project Overview
 
@@ -203,5 +203,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 *Building the future of personalized financial advisory with AI*
 
 </div>
+
 
 
