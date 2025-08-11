@@ -192,7 +192,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Project Maintainer**: [Ashwin Prajapati]
 - 📧 Email: ashwin8437@gmail.com
-- 💼 LinkedIn: [[Your LinkedIn Profile](https://www.linkedin.com/in/ashwin-prajapati-4b85b0258/?trk=opento_sprofile_topcard)]
+- 💼 LinkedIn: [[Ashwin Prajapati](https://www.linkedin.com/in/ashwin-prajapati-4b85b0258/?trk=opento_sprofile_topcard)]
 - 🐙 GitHub: [@ashwiinn418](https://github.com/ashwiinn418)]
 
 ---
@@ -204,3 +204,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 *Building the future of personalized financial advisory with AI*
 
 </div>
+
